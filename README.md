@@ -1,18 +1,13 @@
-### Hi there 👋, I'm Nisuga.
+### Hi there 👋👽, I'm Nisuga. A Full-Stack Software developer with _2 years of experience_. 
+### Also a final year undergraduate at SLIIT, Malabe, Sri Lanka( in Department of Computer Science and Software Engineering)
 
-<!--
-**NisugaJ/NisugaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a research to **Enhance voice quality of monotonous/less-engaging voices**
+- 🌱 I’m currently learning **Prosody of speech**
+- 👯 I’m looking to collaborate on **Prosodical audio enhancement**
+- 🤔 I’m looking for help with **How to pitch an awesome software idea ?**
+- 💬 Ask me about _new ideas_
+- 📫 How to reach me: nisuga.rockwell@gmail.com
+- ⚡ Fun fact: Ultra curious person
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+#### Online me 😎
 <a href="https://meta.stackoverflow.com/users/10010326/nisuga-jayawardana"><img src="https://meta.stackoverflow.com/users/flair/10010326.png" width="208" height="58" alt="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
