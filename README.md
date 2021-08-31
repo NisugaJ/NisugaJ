@@ -10,4 +10,4 @@
 - ⚡ Fun fact: Ultra curious person
 
 #### Online me 😎
-<a href="https://meta.stackoverflow.com/users/10010326/nisuga-jayawardana"><img src="https://meta.stackoverflow.com/users/flair/10010326.png" width="208" height="58" alt="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/10010326/nisuga-jayawardana"><img src="https://stackoverflow.com/users/flair/10010326.png" width="208" height="58" alt="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
