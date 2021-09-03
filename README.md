@@ -1,4 +1,4 @@
-### Hi there 👋👽, I'm Nisuga. A Full-Stack Software developer with _2 years of experience_. 
+### Hi there 👋😀, I'm Nisuga. A Full-Stack Software developer with _2 years of experience_. 
 ### Also a final year undergraduate at SLIIT, Malabe, Sri Lanka( in Department of Computer Science and Software Engineering)
 
 - 🔭 I’m currently working on a research to **Enhance voice quality of monotonous/less-engaging voices**
