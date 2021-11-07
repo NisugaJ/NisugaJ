@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Ultra curious person
 
 ![Nisuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisugaJ&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Online me 😎
 <a href="https://stackoverflow.com/users/10010326/nisuga-jayawardana"><img src="https://stackoverflow.com/users/flair/10010326.png" width="208" height="58" alt="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Nisuga Jayawardana at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
