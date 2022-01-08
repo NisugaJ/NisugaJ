@@ -1,4 +1,4 @@
-### Hi there 👋😀, I'm Nisuga. A Software Engineer with nearly _2 years of experience_. 
+### Hi there 👋😀, I'm Nisuga. A Software Engineer with nearly _2 years of industry experience_. 
 ### Also a final year undergraduate at SLIIT, Malabe, Sri Lanka( in Department of Computer Science and Software Engineering)
 
 - 🔭 I’m currently working on a project  to **Leverage and Showcase**
