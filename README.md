@@ -6,7 +6,7 @@
 - 💬 Ask me about _any backend stuff_
 - 📫 How to reach me: nisuga.rockwell@gmail.com
 - ⚡ Fun fact: I am an Ultra curious person
-- 
+
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
 <!-- - 👯 I’m looking to collaborate on **Prosodical audio enhancement** -->
 <!-- - 🤔 I’m looking for help with **How to pitch an awesome software idea ?** -->
