@@ -1,4 +1,4 @@
-### Hi there 👋😀, I'm Nisuga. A Software Engineer with nearly _2 years of industry experience_. 
+### Hi there 👋😀, I'm Nisuga. A Software Engineer with more than 2 years of industry experience_. 
 
 
 
