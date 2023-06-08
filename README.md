@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Django, Angular, PL/SQL**
+- 🌱 I’m currently learning **.NET**
 - 💬 Ask me about _any backend stuff_
 - 📫 How to reach me: nisuga.rockwell@gmail.com
 - ⚡ Fun fact: I am an Ultra curious person
