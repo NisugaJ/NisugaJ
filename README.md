@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning **.NET**
-- 💬 Ask me about _any backend stuff_
+- 🌱 I’m currently learning **Svelte**
+- 💬 Ask me about _any backend stuff, AI, RAG, _
 - 📫 How to reach me: nisuga.rockwell@gmail.com
 - ⚡ Fun fact: I am an Ultra curious person
 
