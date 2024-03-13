@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Svelte**
-- 💬 Ask me about _any programming stuff, AI, RAG, OpenAI Assistants, Groq, LangChain ..._
+- 💬 Ask me about _any programming stuff, AI, RAG, OpenAI Assistants, Groq, LangChain and many more..._
 - 📫 How to reach me: nisuga.rockwell@gmail.com
 - ⚡ Fun fact: I love aviation more than anything else.
 
