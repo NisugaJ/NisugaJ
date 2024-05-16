@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Svelte**
 - 💬 Ask me about _any programming stuff, AI, RAG, OpenAI Assistants, Groq, LangChain and many more..._
 - 📫 How to reach me: nisuga.rockwell@gmail.com
-- ⚡ Fun fact: I love aviation more than anything else.
+- ⚡ Fun fact: I love cats and aviation activities.
 
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
 <!-- - 👯 I’m looking to collaborate on **Prosodical audio enhancement** -->
