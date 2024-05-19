@@ -1,8 +1,8 @@
 ### Hi there 👋😀, I'm [Nisuga](https://nisugaj.github.io/). A Software Engineer with 5 years of industry experience. 
 
-- 🌱 I’m currently learning **Svelte, FastAPI, LangChain, GenerativeAI**
-- 💬 Ask me about _Full-stack development, AI, RAG, OpenAI Assistants, Groq, LangChain, Vector Databases..._
-- 📫 How to reach me: nisuga.rockwell@gmail.com
+- 🌱 I’m currently learning **Svelte, FastAPI, LangChain, GenerativeAI**.
+- 💬 Ask me about _Full-stack development, AI, RAG, OpenAI Assistants, Groq, LangChain, Vector Databases..._.
+- 📫 How to reach me: nisuga.rockwell@gmail.com.
 - ⚡ Fun fact: I love music 🎶, 🐈 and aviation activities like ✈ spotting and flight simulation🎮.
 
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
