@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Svelte, FastAPI, LangChain, GenerativeAI**.
 - 💬 Ask me about _Full-stack development, AI, RAG, OpenAI Assistants, Groq, LangChain, Vector Databases..._.
 - 📫 How to reach me: nisuga.rockwell@gmail.com.
-- ⚡ Fun fact: I love badminton🏸, 🎶, 🐈 and aviation activities like ✈ spotting and flight simulation🎮.
+- ⚡ Fun fact: I love badminton🏸🎶🐈 and aviation activities like ✈ spotting and flight simulation🎮.
 
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
 <!-- - 👯 I’m looking to collaborate on **Prosodical audio enhancement** -->
