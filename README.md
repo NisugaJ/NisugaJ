@@ -1,7 +1,7 @@
 ### Hi there 👋😀, I'm [Nisuga](https://nisugaj.github.io/).
 
 - 🌱 I’m currently learning **Svelte, FastAPI, LangChain, and GenerativeAI**.
-- 💬 Ask me about _Full-stack development, AI, Prompt Engineering, RAG, OpenAI Assistants, Groq, LangChain, Vector Databases.
+- 💬 Ask me about _Full-stack development, AI, Prompt Engineering, RAG, OpenAI Assistants, Groq, LangChain, Vector Databases_.
 - 📫 How to reach me: nisuga.rockwell@gmail.com.
 - 🌏 My website: **[nisugaj.github.io](https://nisugaj.github.io/)**
 - ⚡ Fun fact: I love 🏸🎶🐈 and aviation ✈.
