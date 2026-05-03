@@ -1,4 +1,4 @@
-### Hi there 👋😀, I'm Nisuga.
+### Hi there 👋, I'm Nisuga.
 
 A full-stack Software Engineer.
 
