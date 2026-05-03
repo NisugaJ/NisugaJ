@@ -6,7 +6,6 @@ Please check out more about my life and work on my website.
 🌏 My website: **[nisugaj.github.io](https://nisugaj.github.io/)**
   
 
-![Nisuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisugaJ&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Links
