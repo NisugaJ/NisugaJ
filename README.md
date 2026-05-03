@@ -1,7 +1,10 @@
 ### Hi there 👋😀, I'm Nisuga.
 
-I update about most of my life and work on my website.
+Full-stack Software Engineer;
+
+Please check out more about my life and work on my website.
 - 🌏 My website: **[nisugaj.github.io](https://nisugaj.github.io/)**
+  
 
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
 <!-- - 👯 I’m looking to collaborate on **Prosodical audio enhancement** -->
