@@ -2,7 +2,7 @@
 
 A full-stack Software Engineer.
 
-Please check out more about my work on my **[website](https://nisugaj.github.io/)**.  
+Please visit my **[website](https://nisugaj.github.io/)** to learn more.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
