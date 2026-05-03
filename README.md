@@ -1,6 +1,6 @@
 ### Hi there 👋😀, I'm Nisuga.
 
-I update most of my life and work on my website.
+I update about most of my life and work on my website.
 - 🌏 My website: **[nisugaj.github.io](https://nisugaj.github.io/)**
 
 <!-- - 🔭 I’m currently working on a project  for **Leverage and Showcase** -->
