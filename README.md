@@ -1,6 +1,6 @@
 ### Hi there 👋😀, I'm Nisuga.
 
-Full-stack Software Engineer;
+A full-stack Software Engineer;
 
 Please check out more about my life and work on my **[website](https://nisugaj.github.io/)**.  
 
